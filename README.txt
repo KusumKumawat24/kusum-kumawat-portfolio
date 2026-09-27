@@ -10,4 +10,4 @@ Open index.html in Chrome to preview.
 
 IMPORTANT:
 The live portfolio uses hosted assets. This folder recreates the visible portfolio layout and content in standalone HTML/CSS/JS.
-Replace the placeholder project href="#" links with your actual GitHub project URLs.
+Replace the placeholder project href="https://github.com/KusumKumawat24/kusum-kumawat-portfolio/" links with your actual GitHub project URLs.
